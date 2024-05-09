@@ -1,6 +1,6 @@
 # MK-KD
 ### Title of Paper:
-Medical Image Classification: Knowledge Transfer via Residual U-Net and Vision Transformer-Based Teacher-Student Model with Knowledge Distillation
+Medical Image Classification: Knowledge Transfer via Residual U-Net and Vision Transformer-Based Teacher-Student Model with Knowledge Distillation.
 
 ### Remarks:
 Due to some of our data being private and considering patient privacy concerns, we have not provided the download method for the private dataset. Additionally, as our subsequent work builds upon the foundation of this project, we have made modifications to the original code. However, to ensure the reproducibility of this work, we have restored the core code for both the teacher and student models.
